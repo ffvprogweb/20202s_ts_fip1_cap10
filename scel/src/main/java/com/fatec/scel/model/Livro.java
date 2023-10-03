@@ -2,7 +2,9 @@ package com.fatec.scel.model;
 
 import javax.persistence.*;
 import javax.validation.constraints.*;
-
+/*
+ * comentario 1
+ */
 @Entity
 public class Livro {
 	@Id
